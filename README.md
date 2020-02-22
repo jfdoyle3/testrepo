@@ -1,2 +1,3 @@
-# testrepo
-test new setups of git on machines.
+# Test Git
+
+Simple files to test git if the machine is connected.
